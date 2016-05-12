@@ -11,5 +11,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-config-transform": "^0.2.24"
+  },
+  "dependencies": {
+    "yargs": "^4.7.0"
   }
 }
